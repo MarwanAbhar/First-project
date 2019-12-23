@@ -1,0 +1,142 @@
+body {
+    overflow-x: hidden;
+}
+.navContainer
+{
+    position: absolute;
+    top: 0;
+}
+.we{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.about {
+    margin-top: 80px;
+    
+}
+
+.about button {
+    margin-top: 30%;
+}
+
+.col-md-5 {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+.col-md-7 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.team {
+    text-align: center;
+    overflow: hidden;
+
+}
+
+
+
+.services {
+    background-image: url(../img/bg-image-30.jpg);
+    background-attachment: fixed;
+    width: 50% 50%;
+    color: #fff;
+
+}
+
+.services1{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    padding-top: 50px;
+}
+
+.services1 li
+{
+ margin-bottom: 10px;  
+}
+
+.works {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card h1
+{
+   padding-left: 30px;
+    border-bottom: solid 1px #787878;
+    padding-bottom: 20px;
+    font-size: 50px;
+}
+
+.card button{
+    margin-right: 30px;
+}
+
+.pricing li
+{
+    margin-bottom: 10px;
+    list-style-type: none;
+    color: #787878;
+    text-align: left;
+}
+
+.pricing
+{   margin-top: 50px;
+    padding-top: 100px;
+    background-color: #f7f7f7;
+    padding-bottom:  50px;
+}
+
+.likes {
+    background-color: black;
+    width: 50% 50%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+.likes h1
+{
+    padding-bottom: 20px;
+}
+
+.clients {
+    margin-top: 50px;
+}
+
+.clients img
+{
+    width: 150px;
+    height: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.form-group label{
+    padding: 10px;
+    text-align: left;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #f7f7f7;
+    margin-top: 20px;
+}
+
+.container {
+    padding-top: 20px;
+}
+
+.row li{
+    text-align: left;
+    list-style-type: none;
+}
+
+.head h6 {
+    margin-left: 15px;
+}
